@@ -1,4 +1,4 @@
-#!/usr/bin/swift
+#!/usr/bin/env swift
 //https://developer.apple.com/forums/thread/113133
 import Foundation
 

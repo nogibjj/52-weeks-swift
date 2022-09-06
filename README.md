@@ -1,6 +1,13 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
+## Building a cli
+
+* Use this project/lib:  https://github.com/apple/swift-argument-parser
+
+
+
+
 ## Getting started
 
 1. follow steps here:  https://www.swift.org/download/#using-downloads 
