@@ -1,9 +1,36 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
+## Another try
+0. mkdir Count && cd Count
+1. swift package init --type executable
+2. Add dependency to package
+
+```swift
+    dependencies: [
+        .package(url: "https://github.com/apple/swift-package-manager.git", from: "0.1.0"),
+        ],
+```
+
+Current problem....
+
+```bash
+/workspaces/52-weeks-swift/Count/Sources/Count/main.swift:1:1: note: top-level code defined in this source file
+import ArgumentParser
+````
+
+
 ## Next time follow this
 
 * https://github.com/eneko/eneko.github.io/blob/eba32d007dbd7c801816154708839532fbc33377/_posts/2018-01-02-handling-commands-with-swift-package-manager.md
+
+1. Create `mkdir calculator && cd calculator`
+2. `swift package init --type executable`
+3. `swift run calculator`
+
+Should run `hello worldl`
+
+4.  
 
 
 ## Building a cli for Swift (Failed)
