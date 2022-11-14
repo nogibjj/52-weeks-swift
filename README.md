@@ -3,7 +3,24 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
-## Nov 14th Example
+## Nov 14th Example 
+
+### calculator
+
+Step 1:
+```bash
+mkdir calc && cd calc
+swift package init --type executable
+swift run calc
+mv Sources/calc/main.swift Sources/calc/command.swift
+```
+
+Step 2:  Add argument parsing into `Package.swift`
+Step 3:  Write code in `command.swift`
+Step 4:  Run:  `swift run calc add 2 2`
+
+
+* WORKING!!! (NEED TO RENAME main.swift)
 
 * Another person had the same issue:  https://github.com/apple/swift-argument-parser/issues/393 
 
