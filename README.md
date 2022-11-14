@@ -3,6 +3,23 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
+## Nov 14th Example
+
+* Another person had the same issue:  https://github.com/apple/swift-argument-parser/issues/393 
+
+### Repeat
+
+mkdir Repeat && cd Repeat
+swift package init --type executable
+swift run Repeat
+
+
+### Too much work
+
+mkdir calculator && cd calculator
+swift package init --type executable
+swift run calculator
+
 ## Another try
 0. mkdir Count && cd Count
 1. swift package init --type executable
