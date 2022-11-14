@@ -1,3 +1,5 @@
+[![Codespaces Prebuilds](https://github.com/nogibjj/52-weeks-swift/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/nogibjj/52-weeks-swift/actions/workflows/codespaces/create_codespaces_prebuilds)
+
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
