@@ -3,6 +3,33 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
+## On deck: do Vapor HTTP
+
+Goal:  Build something using Vapor HTTP
+
+https://swiftpackageindex.com/vapor/vapor
+
+
+## Nov 28th Continuing Swift Examples
+
+Goal:  Figure out Swift packages, how I find popular ones
+Summary:  That Swift appears to be headed towards SPM (Swift Package Manager)
+tldr:  Use this for [searching for cool packages](https://swiftpackageindex.com/search?query=stars%3A%3E1000)
+
+* [Swift Examples](https://developer.apple.com/documentation/xcode/swift-packages)
+* [Swift package index apple](https://swiftpackageindex.com/apple)
+* [Cocoa Pods](https://cocoapods.org/)
+* install Ruby:  `sudo apt-get update && sudo apt-get install ruby-full`
+* install:  `sudo gem install cocoapods`
+* [GitHub Repo for cocoapods](https://github.com/CocoaPods/CocoaPods)
+
+[Vapor](https://swiftpackageindex.com/vapor/vapor)
+* Install Toolbox:  https://docs.vapor.codes/install/linux/#install-toolbox
+
+`vapor new hello -n`
+`cd hello`
+`swift run`
+
 ## Nov 14th Example 
 
 ### calculator
