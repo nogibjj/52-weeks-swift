@@ -3,7 +3,10 @@
 # 52-weeks-swift
 copilot-enabled-swift-live-streaming
 
-## On deck: do Vapor HTTP
+## Next, deploy to AWS as a containerized deploy
+
+
+## Dec 12th: do Vapor HTTP
 
 Goal:  Build something using Vapor HTTP
 
